@@ -1,58 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://maudgrol.github.io/home/services/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maudgrol.github.io/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maudgrol.github.io/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maudgrol.github.io/cv/</loc>
     <lastmod>2021-04-10T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maudgrol.github.io/publications/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maudgrol.github.io/home/subheader/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maudgrol.github.io/home/services/service2/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maudgrol.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maudgrol.github.io/home/services/service1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maudgrol.github.io/home/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maudgrol.github.io/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maudgrol.github.io/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maudgrol.github.io/home/services/service3/</loc>
   </url>
-  
 </urlset>
