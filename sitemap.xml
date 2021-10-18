@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maudgrol.com/home/services/</loc>
+    <loc>/home/services/</loc>
   </url><url>
-    <loc>https://maudgrol.com/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://maudgrol.com/projects/</loc>
+    <loc>/projects/</loc>
   </url><url>
-    <loc>https://maudgrol.com/cv/</loc>
+    <loc>/cv/</loc>
     <lastmod>2021-04-10T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://maudgrol.com/publications/</loc>
+    <loc>/publications/</loc>
   </url><url>
-    <loc>https://maudgrol.com/home/subheader/</loc>
+    <loc>/home/subheader/</loc>
   </url><url>
-    <loc>https://maudgrol.com/home/services/service2/</loc>
+    <loc>/home/services/service2/</loc>
   </url><url>
-    <loc>https://maudgrol.com/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://maudgrol.com/home/services/service1/</loc>
+    <loc>/home/services/service1/</loc>
   </url><url>
-    <loc>https://maudgrol.com/home/</loc>
+    <loc>/home/</loc>
   </url><url>
-    <loc>https://maudgrol.com/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://maudgrol.com/tags/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>https://maudgrol.com/home/services/service3/</loc>
+    <loc>/home/services/service3/</loc>
   </url>
 </urlset>
