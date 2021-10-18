@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maud Grol</title>
-    <link>https://maudgrol.github.io/</link>
+    <link>https://maudgrol.com/</link>
     <description>Recent content on Maud Grol</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://maudgrol.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://maudgrol.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://maudgrol.github.io/about/</link>
+      <link>https://maudgrol.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maudgrol.github.io/about/</guid>
+      <guid>https://maudgrol.com/about/</guid>
       <description>Hi! My name is Maud, and I&amp;rsquo;m looking for a new challenge as a data scientist. I previously worked as a post-doctoral researcher in the field of experimental psychology, with a focus on mental well-being and decision-making.
 I have always been a very curious person. This is what originally led me to science and is why I am passionate about travelling and exploring different cultures and cuisines. I particularly enjoy using data analysis, modelling and data visualization to translate complex questions into understandable insights.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://maudgrol.github.io/projects/</link>
+      <link>https://maudgrol.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maudgrol.github.io/projects/</guid>
+      <guid>https://maudgrol.com/projects/</guid>
       <description>Here you find a sample of personal data projects. Stay tuned for more to come!</description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>https://maudgrol.github.io/cv/</link>
+      <link>https://maudgrol.com/cv/</link>
       <pubDate>Sat, 10 Apr 2021 12:00:00 +0000</pubDate>
       
-      <guid>https://maudgrol.github.io/cv/</guid>
+      <guid>https://maudgrol.com/cv/</guid>
       <description>I am a research-trained, client-centric professional with 10 years of experience in psychological research, in the areas of mental health, wellbeing and decision-making. I am data- and impact-driven. I like to work in a dynamic and socially responsible environment where my work has a direct positive impact.
 Skills and Competencies Data analytics &amp;mdash; Software and programming skills for data collection (e.g. Qualtrics, LimeSurvey, Python), data analysis, machine learning and visualization (e.</description>
     </item>
     
     <item>
       <title>publications</title>
-      <link>https://maudgrol.github.io/publications/</link>
+      <link>https://maudgrol.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maudgrol.github.io/publications/</guid>
+      <guid>https://maudgrol.com/publications/</guid>
       <description>You can also find me on Google Scholar and ResearchGate. My ORCID ID is 0000-0001-9933-4569.
 Preprints  Grol, M., Cásedas, L., Oomen, D., Spronk, D., &amp;amp; Fox, E. (2020, December 23). Uncontrolled Eating in Healthy Women Has Limited Influence on Food Reward Sensitivity and Food-Related Inhibitory Control. PsyArXiv. doi: https://doi.org/10.31234/osf.io/an7se  Peer-reviewed Publications 2021  Grol, M., &amp;amp; De Raedt, R. (2021). The relationship between affective flexibility, spontaneous emotion regulation and the response to induced stress.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://maudgrol.github.io/home/subheader/</link>
+      <link>https://maudgrol.com/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maudgrol.github.io/home/subheader/</guid>
+      <guid>https://maudgrol.com/home/subheader/</guid>
       <description>I&amp;rsquo;m Maud, a data scientist based in Berlin. My academic background is in experimental psychology, working with real-world datasets and using advanced statistical methods. I love analyzing, modeling and visualizing data to make better and informed decisions. Learn more about me</description>
     </item>
     
     <item>
       <title>Analyse</title>
-      <link>https://maudgrol.github.io/home/services/service2/</link>
+      <link>https://maudgrol.com/home/services/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maudgrol.github.io/home/services/service2/</guid>
+      <guid>https://maudgrol.com/home/services/service2/</guid>
       <description>I am experienced in analyzing data and clearly presenting results in reproducible reports. I mainly use R and Python for all data-related tasks, including machine learning methods and natural language processing.</description>
     </item>
     
     <item>
       <title>Collect</title>
-      <link>https://maudgrol.github.io/home/services/service1/</link>
+      <link>https://maudgrol.com/home/services/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maudgrol.github.io/home/services/service1/</guid>
+      <guid>https://maudgrol.com/home/services/service1/</guid>
       <description>I have extensive experience with data collection methods such as survey design, A/B testing and semi-structured interviews. I have worked with a.o. Qualtrics, LimeSurvey and Python to collect and process data.</description>
     </item>
     
     <item>
       <title>Visualize</title>
-      <link>https://maudgrol.github.io/home/services/service3/</link>
+      <link>https://maudgrol.com/home/services/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maudgrol.github.io/home/services/service3/</guid>
+      <guid>https://maudgrol.com/home/services/service3/</guid>
       <description>Visually presenting data helps to provide a quick and clear understanding of the information I have mostly used open source tools R/shiny to create static infographics and interactive dashboards.</description>
     </item>
     

@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Expertise on Maud Grol</title>
-    <link>https://maudgrol.github.io/home/services/</link>
+    <link>https://maudgrol.com/home/services/</link>
     <description>Recent content in Expertise on Maud Grol</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://maudgrol.github.io/home/services/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://maudgrol.com/home/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analyse</title>
-      <link>https://maudgrol.github.io/home/services/service2/</link>
+      <link>https://maudgrol.com/home/services/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maudgrol.github.io/home/services/service2/</guid>
+      <guid>https://maudgrol.com/home/services/service2/</guid>
       <description>I am experienced in analyzing data and clearly presenting results in reproducible reports. I mainly use R and Python for all data-related tasks, including machine learning methods and natural language processing.</description>
     </item>
     
     <item>
       <title>Collect</title>
-      <link>https://maudgrol.github.io/home/services/service1/</link>
+      <link>https://maudgrol.com/home/services/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maudgrol.github.io/home/services/service1/</guid>
+      <guid>https://maudgrol.com/home/services/service1/</guid>
       <description>I have extensive experience with data collection methods such as survey design, A/B testing and semi-structured interviews. I have worked with a.o. Qualtrics, LimeSurvey and Python to collect and process data.</description>
     </item>
     
     <item>
       <title>Visualize</title>
-      <link>https://maudgrol.github.io/home/services/service3/</link>
+      <link>https://maudgrol.com/home/services/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maudgrol.github.io/home/services/service3/</guid>
+      <guid>https://maudgrol.com/home/services/service3/</guid>
       <description>Visually presenting data helps to provide a quick and clear understanding of the information I have mostly used open source tools R/shiny to create static infographics and interactive dashboards.</description>
     </item>
     
