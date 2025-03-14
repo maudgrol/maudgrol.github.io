@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Projects on Maud Grol</title>
+    <link>https://www.maudgrol.com/portfolio/</link>
+    <description>Recent content in Personal Projects on Maud Grol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2025 13:30:28 +0600</lastBuildDate><atom:link href="https://www.maudgrol.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepDIVA</title>
+      <link>https://www.maudgrol.com/portfolio/deep_diva/</link>
+      <pubDate>Thu, 13 Mar 2025 13:56:43 +0600</pubDate>
+      
+      <guid>https://www.maudgrol.com/portfolio/deep_diva/</guid>
+      <description>In this project we aimed to create a deep-learning synthesizer programmer using the vst plugin DIVA. We wanted to create a tool that addresses the challenge of programming sound synthesizers.</description>
+    </item>
+    
+    <item>
+      <title>Education Under Attack</title>
+      <link>https://www.maudgrol.com/portfolio/education_under_attack/</link>
+      <pubDate>Thu, 13 Mar 2025 13:56:43 +0600</pubDate>
+      
+      <guid>https://www.maudgrol.com/portfolio/education_under_attack/</guid>
+      <description>This data dashboard was created using a dataset that I accessed through the Humanitarian Data Exchange, which was originally extracted from the 2018 report of the Global Coalition to Protect Education from Attack For more information, visit Education under Attack 2018.</description>
+    </item>
+    
+    <item>
+      <title>Data-driven Skills Taxonomy</title>
+      <link>https://www.maudgrol.com/portfolio/skills-taxonomy/</link>
+      <pubDate>Mon, 10 Feb 2025 13:56:43 +0600</pubDate>
+      
+      <guid>https://www.maudgrol.com/portfolio/skills-taxonomy/</guid>
+      <description>A skills taxonomy could show workers other jobs that they can transition to with the skills they have or with minimum retraining.
+For this project I explored how an established labour market framework can be used to start developing a map of skills.</description>
+    </item>
+    
+  </channel>
+</rss>

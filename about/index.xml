@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on Maud Grol</title>
+    <link>https://www.maudgrol.com/about/</link>
+    <description>Recent content in About Me on Maud Grol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.maudgrol.com/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
